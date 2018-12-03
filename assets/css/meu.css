@@ -1,0 +1,13 @@
+body, input, select, textarea, h3, label, li {
+  font-family: 'Questrial', sans-serif;
+  }
+h1, h2, h4, h5, h6 {
+  font-family: 'Bad Script', cursive;
+  }
+#intro p {
+    font-style: normal;
+  }
+
+#intro h1  {
+    font-family: 'Amatic SC', cursive;
+}
